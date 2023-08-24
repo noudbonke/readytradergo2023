@@ -1,0 +1,8 @@
+/home/noud/repos/ReadyTraderGo/build/CMakeFiles/autotrader.dir
+/home/noud/repos/ReadyTraderGo/build/CMakeFiles/edit_cache.dir
+/home/noud/repos/ReadyTraderGo/build/CMakeFiles/rebuild_cache.dir
+/home/noud/repos/ReadyTraderGo/build/libs/CMakeFiles/edit_cache.dir
+/home/noud/repos/ReadyTraderGo/build/libs/CMakeFiles/rebuild_cache.dir
+/home/noud/repos/ReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/ready_trader_go_lib.dir
+/home/noud/repos/ReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/edit_cache.dir
+/home/noud/repos/ReadyTraderGo/build/libs/ready_trader_go/CMakeFiles/rebuild_cache.dir

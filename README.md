@@ -1,0 +1,2 @@
+# ReadyTraderGo
+This repo contains several autotraders created for [Optiver's 2023 Ready Trader Go competition](https://readytradergo.optiver.com/). The competition consisted of several rounds in which trading/market making bots, written in either Python or C++, were pitted against each other on a simulated exchange. The objective was to maximize profit, while staying within pre-defined risk limits. For the full set of rules, as well as instructions on how to compile and run the bots, please refer to the Readme.md file provided by Optiver. 
